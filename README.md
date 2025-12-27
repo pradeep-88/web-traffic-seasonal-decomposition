@@ -5,7 +5,6 @@
 ![Statsmodels](https://img.shields.io/badge/statsmodels-Time%20Series-orange)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
